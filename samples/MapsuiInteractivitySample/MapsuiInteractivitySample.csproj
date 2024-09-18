@@ -10,7 +10,7 @@
 
 	<PropertyGroup>
 		<AvaloniaVersion>11.0.11</AvaloniaVersion>
-		<AvaloniaXamlBehaviorsVersion>11.0.11</AvaloniaXamlBehaviorsVersion>
+		<AvaloniaXamlBehaviorsVersion>11.0.10</AvaloniaXamlBehaviorsVersion>
 		<ReactiveUIVersion>18.3.1</ReactiveUIVersion>
 	</PropertyGroup>
 
